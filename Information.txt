@@ -1,0 +1,39 @@
+
+~ VL Activation ~
+
+Tap       ~ Using local server & and injector that replace origional service
+Windivert ~ Using local server & and injector that replace origional service
+Hook      ~ Using local server & and injector that replace origional service
+Online    ~ Using VL Keys & Online kms servers to activate
+
+~ Special Activatioon
+
+KMS38    ~ using VL Key,     activation till 2038 ??!!
+HWID     ~ Using Retail key, activation is permanent, also called 'Digital License' activation
+OEM      ~ Using OEM Key,    in the days of WIn 7 & Vista. using custom boot & Insert fake Oem Bios to memory
+TSforge  ~ Using forge key information, https://massgrave.dev/tsforge
+
+~ Links
+
+http://forum.ru-board.com/topic.cgi?forum=55&topic=11811
+http://forums.mydigitallife.info/threads/39048-HOW-TO-KMS-HOST-Setup-and-Charge-v-2-0
+
+http://forums.mydigitallife.info/threads/41010-KMSEmulator-KMS-Client-and-Server-Emulation-Source
+http://forums.mydigitallife.info/threads/50949-SECO-Injector-V2-4-2-Activation-without-WinDivert-and-TAP-On-the-Fly-KMS-Server
+
+http://forum.ru-board.com/topic.cgi?forum=2&topic=5328#1
+http://forum.ru-board.com/topic.cgi?forum=55&topic=12322#1
+http://forums.mydigitallife.info/threads/39048-HOW-TO-KMS-HOST-Setup-and-Charge-v-2-0
+http://forums.mydigitallife.info/threads/49686-KMS-Activate-Windows-8-1-(En-amp-Pro)-and-Office-2013
+
+## Programs from Ratiborus ##
+http://forum.ru-board.com/topic.cgi?forum=2&topic=5328
+http://forum.ru-board.com/topic.cgi?forum=2&topic=5693
+http://forum.ru-board.com/topic.cgi?forum=2&topic=5718
+http://forum.ru-board.com/topic.cgi?forum=2&topic=5734
+http://forum.ru-board.com/topic.cgi?forum=2&topic=5820
+http://forum.ru-board.com/topic.cgi?forum=2&topic=5901
+
+## Microsoft Office 2019 ##
+http://forum.ru-board.com/topic.cgi?forum=5&topic=49972&start=0
+http://forum.ru-board.com/topic.cgi?forum=35&bm=1&topic=81283&start=0
